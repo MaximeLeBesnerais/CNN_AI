@@ -1,0 +1,151 @@
+# Build directories
+build/
+bin/
+obj/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+cnn_example
+cnn_conv_example
+cnn_advanced_blocks
+cnn_tests
+test_blocks_compile
+test_functionality
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Model files (if they're generated/temporary)
+*.bin
+*.model
+
+# IDE files
+.vscode/
+.vs/
+*.vcxproj*
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbp
+
+# Dev-C++
+*.dev
+
+# QtCreator
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+*.qm
+*.prl
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Core dumps
+core
+core.*
+
+# Log files
+*.log
+
+# Test outputs
+test_output/
+test_results/
+
+# Data files (uncomment if you want to ignore data)
+# data/
+# *.csv
+# *.dat
+
+# Python cache (if you have any Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Package files
+*.tar
+*.zip
+*.7z
+*.rar
+*.gz
+*.bz2
+*.xz

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/cnn_tests.dir/tests/test_main.cpp.o CMakeFiles/cnn_tests.dir/tests/test_tensor.cpp.o CMakeFiles/cnn_tests.dir/tests/test_layers.cpp.o CMakeFiles/cnn_tests.dir/tests/test_advanced_blocks.cpp.o -o cnn_tests  libcnn_framework.a /usr/lib/gcc/x86_64-linux-gnu/14/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a

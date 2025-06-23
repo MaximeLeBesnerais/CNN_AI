@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/test_blocks_compile.dir/examples/test_blocks_compile.cpp.o -o test_blocks_compile  libcnn_framework.a /usr/lib/gcc/x86_64-linux-gnu/14/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a
