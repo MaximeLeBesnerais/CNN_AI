@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcnn_framework.a CMakeFiles/cnn_framework.dir/src/tensor.cpp.o CMakeFiles/cnn_framework.dir/src/linear.cpp.o CMakeFiles/cnn_framework.dir/src/activation.cpp.o CMakeFiles/cnn_framework.dir/src/conv2d.cpp.o CMakeFiles/cnn_framework.dir/src/pooling.cpp.o CMakeFiles/cnn_framework.dir/src/dropout.cpp.o CMakeFiles/cnn_framework.dir/src/layers.cpp.o CMakeFiles/cnn_framework.dir/src/blocks.cpp.o CMakeFiles/cnn_framework.dir/src/model.cpp.o CMakeFiles/cnn_framework.dir/src/optimizer.cpp.o CMakeFiles/cnn_framework.dir/src/loss.cpp.o
+/usr/bin/ranlib libcnn_framework.a
